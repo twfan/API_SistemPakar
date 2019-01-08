@@ -13,4 +13,18 @@
 		date_default_timezone_set("Asia/Jakarta");
 	*/ 
 
+
+
+ ?>
+
+
+ <?php 
+
+	// define('HOST','localhost');
+	// define('USER','u384997447_twfan');
+	// define('PASSWORD','taufan1204');
+	// define('DATABASE','u384997447_pakar');
+
+	// $conn = mysqli_connect(HOST, USER, PASSWORD, DATABASE);
+	
  ?>
